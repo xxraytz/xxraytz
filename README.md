@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm Egor Surkov. That's my CV which I'll complete soon...👋
 
 <!--
 **xxraytz/xxraytz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
